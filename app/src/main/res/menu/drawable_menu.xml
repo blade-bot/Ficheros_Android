@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcion1_interno"
+        android:icon="@drawable/ic_android_interno"
+        android:title="@string/opcion1"/>
+    <item
+        android:id="@+id/opcion2_externo"
+        android:icon="@drawable/ic_android_interno"
+        android:title="@string/opcion2"/>
+    <item
+        android:id="@+id/opcion_SD"
+        android:icon="@drawable/ic_android_sd"
+        android:title="Alm. SD"/>
+    <item
+        android:id="@+id/opcion3_raw"
+        android:icon="@drawable/ic_android_raw"
+        android:title="@string/opcion3"/>
+
+</menu>

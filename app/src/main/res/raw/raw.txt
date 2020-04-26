@@ -1,0 +1,2 @@
+Contenido del archivo de texto raw
+solamente son dos lineas

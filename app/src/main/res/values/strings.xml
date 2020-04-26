@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ficheros</string>
+    <string name="cabecera">Uriel Rodriguez</string>
+    <string name="sub_cabecera">urielrodriguezblanco@gmail.com</string>
+    <string name="opcion1">Alm. Interno</string>
+    <string name="opcion2">Alm. Externo</string>
+    <string name="opcion3">RAW</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
